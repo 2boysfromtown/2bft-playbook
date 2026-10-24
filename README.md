@@ -1,3 +1,5 @@
+<p align="center"><img src="media/cover.png" alt="The 2BFT Playbook — making a living with AI from a small town" width="100%"></p>
+
 # The 2BFT Playbook
 
 **How two founders make a living with AI from a small town — a laptop, a family jewellery shop, and no outside funding.**
