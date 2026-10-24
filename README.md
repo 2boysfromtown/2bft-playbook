@@ -1,114 +1,62 @@
-# 2BFT Online Earning Playbook
+# The 2BFT Playbook
 
-A practical working book for choosing an offer, finding customers, delivering useful work, and recording earnings. Starter edition: 6 October 2026. Currency: INR.
+**How two founders make a living with AI from a small town — a laptop, a family jewellery shop, and no funding.**
 
-## Start here
+We are **2 Boys From Town (2BFT)** — Navaratan and Sujal — building an AI studio above our family jewellery shop in **Vaniyambadi, a small town in Tamil Nadu, India**. No metro city, no office, no investors. This is the honest version of how we actually earn with a laptop and an internet connection, written down so the next small-town builder can see the whole picture instead of a highlight reel.
 
-Choose one service and one customer group for your first 30 days. The goal is to test demand and build a repeatable process. All targets below are planning targets, not earned income or guaranteed results.
+This is a playbook, not a promise. We are documenting what pays our bills — the work, the rough prices, and what we got wrong — not selling a shortcut. Your results are your own.
 
-Fill in:
+---
 
-- Monthly income goal: ₹____
-- Weekly available hours: ____
-- Maximum experiment budget: ₹____
-- Existing skills: ____
-- Chosen service: ____
-- Target customer: ____
+## The three streams that pay us
 
-## 1. Choose your first offer
+### 1. Brand animations — about ₹500–600 per reel
+We make short animated videos and reels for brands and creators. The point is volume at a fair price: a brand can get a steady stream of motion content without a city studio's rates. We build them with a mix of code-drawn animation and AI tools, so one person can turn a brief around quickly. Most of our open-source tools below come straight out of this work.
 
-Use these as starting ideas; select the one you can already deliver or demonstrate.
+### 2. 2BFT Academy — paid workshops and hackathons
+We teach what we actually use. We run live workshops and hackathons, and people pay to join and build alongside us. **Over 250 builders** have come through so far. It is also how brands and students find the studio.
 
-| Service idea | Example deliverable | Evidence to create |
-| --- | --- | --- |
-| Social content | Five posts with captions for a local business | Three sample posts |
-| Ad creative | One image creative and three copy variants | A clearly labelled sample campaign |
-| Short video editing | Three edited clips from supplied footage | One before-and-after sample |
-| Business documentation | A service menu, FAQ, or customer guide | A sample document |
+### 3. 2BFT.studio — websites and digital services
+We design and build websites and digital products for clients. So far we have **delivered two client websites and earned over $30,000** in web work — from a small town, remotely. This is our highest-value stream and it funds the experiments.
 
-Write the offer in one sentence: “I help [customer] get [useful outcome] by delivering [specific work] within [time].”
+---
 
-Define the deliverables, delivery date, revision limit, price, and what the customer must supply. Separate advertising spend from your service fee. Do not promise sales or leads you cannot control.
+## The numbers, honestly
 
-## 2. Build a simple portfolio
+- **250+ builders** through our workshops and hackathons
+- **2 client websites delivered**, **$30,000+** in web projects
+- Brand reels and animations at **₹500–600 each**
+- All of it from **a small town**, on **a laptop**, with **no outside funding**
 
-Create three samples for the same customer group. Label speculative work as sample work. For each sample, explain the customer problem, your solution, the deliverable, and what you would measure after use. Record results only when they are verified.
+No projections, no "this could be you." These are the real totals to date.
 
-Portfolio checklist:
+---
 
-- [ ] Three relevant samples completed
-- [ ] One short description of the offer
-- [ ] Deliverables and revision scope written
-- [ ] Contact method ready
-- [ ] Permission obtained for any client work shown
+## The tools we use (free and open)
 
-## 3. Find and approach customers
+Everything below is open-sourced from our own paid work, so you can see exactly how we make the deliverables we sell:
 
-Create a prospect list from businesses you can reasonably serve. Record the business name, public business contact, observed need, outreach date, reply, and next step. Personalise outreach with one useful observation.
+- [hyperframes-motion](https://github.com/2boysfromtown/hyperframes-motion) — After Effects-style motion graphics in plain HTML
+- [indic-voice-clone](https://github.com/2boysfromtown/indic-voice-clone) — clone your own voice in Tamil, Hindi and English, offline
+- [photo-to-tamil-ad](https://github.com/2boysfromtown/photo-to-tamil-ad) — one product photo to a finished Tamil video ad
 
-Outreach template:
+More at [github.com/2boysfromtown](https://github.com/2boysfromtown).
 
-> Hi [name], I noticed [specific observation] about [business]. I create [deliverable] for [customer type]. I have a relevant sample I can share. Would that be useful?
+---
 
-Follow-up template:
+## What we learned
 
-> Hi [name], following up on my note about [deliverable]. If this is a priority, I can share the scope and a sample. If the timing is wrong, no problem.
+- **One high-value stream funds the rest.** The websites pay the rent; the reels and workshops compound the audience.
+- **Price for the town you're in, deliver for the city.** Low prices only work if the work is fast — which is why we automate everything we can.
+- **Teaching is marketing.** Every workshop builder is someone who has seen the work up close.
+- **Being from a small town is not a disadvantage online.** The client does not know, and does not care, where the laptop is.
 
-Use these as drafts. Track outreach yourself and stop contacting people who decline.
+---
 
-## 4. Quote, deliver, and collect payment
+## Learn the workflows
 
-Before starting, agree in writing on scope, price, payment schedule, deadline, revision count, and ownership of final files. Use a small paid pilot when both sides need to test the fit.
+We teach the full build process — voice, video, websites, automation — in our course at **[2bft.in](https://2bft.in)**.
 
-Delivery checklist:
+---
 
-1. Receive the brief and required assets.
-2. Confirm the scope and payment arrangement.
-3. Create the first draft and check spelling, sizing, and factual claims.
-4. Collect feedback and complete agreed revisions.
-5. Deliver the final files and record payment received.
-6. Request permission to use the work in your portfolio.
-
-## 5. Track earnings and time
-
-Use one row for each project. Keep quoted, invoiced, and received amounts separate.
-
-| Date | Project | Quoted ₹ | Invoiced ₹ | Received ₹ | Direct costs ₹ | Hours | Status |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| YYYY-MM-DD | Project alias | 0 | 0 | 0 | 0 | 0 | Planned |
-
-For each reporting period:
-
-- Cash remaining before tax and overhead = payments received minus direct costs paid.
-- Outstanding invoices = invoiced amounts minus payments applied to those invoices.
-- Cash remaining per hour = cash remaining before tax and overhead divided by hours worked; leave blank if hours are zero.
-
-Do not describe this cash measure as accounting profit. Review pricing against delivery time, revisions, and costs. Use project aliases in this book; keep payment credentials and sensitive customer information elsewhere.
-
-## 6. First 30 days
-
-| Period | Work | Planning target |
-| --- | --- | --- |
-| Days 1–7 | Choose the customer and offer; create samples | One offer and three samples |
-| Days 8–14 | Build a prospect list and send relevant outreach | Twenty prospects and ten personalised messages |
-| Days 15–21 | Discuss needs and quote a small pilot | Three conversations and one written proposal |
-| Days 22–30 | Deliver any accepted work; review what you learned | Completed pilot if accepted, plus a weekly review |
-
-If replies are low, improve customer fit and the opening message. If prospects reply but do not buy, review the scope, evidence, and price. If delivery takes too long, simplify the offer before taking on more work.
-
-## 7. Weekly review
-
-- Week ending: ____
-- Prospects contacted / replies / conversations: ____ / ____ / ____
-- Proposals sent / projects accepted: ____ / ____
-- Money invoiced / money received: ₹____ / ₹____
-- Direct costs paid / hours worked: ₹____ / ____
-- What worked: ____
-- Main bottleneck: ____
-- Next week's single experiment: ____
-
-## Repository setup
-
-Repository: `2boysfromtown/-2bft-online-earning-playbook.`.
-
-Visibility: **Private**. This `README.md` makes the book readable on the repository homepage. Keep future chapters in `chapters/`, reusable drafts in `templates/`, and dated reviews in `reviews/`. Commit meaningful updates with short descriptions. This starter contains no actual earnings or client records.
+Built by **2BFT, Two Boys From Town** — Vaniyambadi, Tamil Nadu. Follow [@navaratan.ai](https://instagram.com/navaratan.ai) and [@2boysfromtown](https://instagram.com/2boysfromtown).
